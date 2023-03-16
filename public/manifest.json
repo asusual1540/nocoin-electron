@@ -1,0 +1,22 @@
+{
+    "name": "Helix",
+    "short_name": "Helix",
+    "icons": [
+      {
+        "src": "/helix-pwa-196_196.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+  
+      {
+        "src": "/helix-pwa-512_512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "#242447",
+    "background_color": "#242447",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait"
+  }
